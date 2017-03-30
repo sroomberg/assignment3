@@ -1,1 +1,7 @@
 /*styles for assignment 3*/
+body { margin: 5%; font-family: sans-serif; }
+h2, p { text-align: center; }
+p, ol li { font-size: 18px; }
+p span { font-weight: bold; font-style: italic; }
+.container { margin-left: auto; margin-right: auto; height: 50%; background-color: blue; color: #FFF; }
+#car-list { list-style-type: hebrew/*hebrew because why not?*/; }
